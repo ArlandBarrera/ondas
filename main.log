@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.5.31)  7 JUN 2025 23:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.5.31)  8 JUN 2025 11:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -693,52 +693,61 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7.69997> on input line 2.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5.5> on input line 2.
-)
+
+
+[2
+
+])
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
 
 
-[2
-
-] (./main.lop)
+[3] (./main.lop)
 \tf@lop=\write6
 \openout6 = `main.lop'.
 
  (./conceptos/ref-conceptos.tex
 
-[3
+[4
 
 ]
 CAPÍTULO 1.
 (./conceptos/definicion.tex
 Package hyperref Info: bookmark level for unknown grafica defaults to 0 on input line 19.
-) (./conceptos/elementos/general.tex) (./conceptos/elementos/amplitud.tex) (./conceptos/elementos/cresta.tex) (./conceptos/elementos/valle.tex) (./conceptos/elementos/punto_inicial.tex) (./conceptos/elementos/linea_equilibrio.tex) (./conceptos/elementos/distancia.tex) (./conceptos/elementos/longitud_onda.tex) (./conceptos/elementos/tiempo.tex) (./conceptos/elementos/periodo.tex) (./conceptos/elementos/frecuencia.tex)) (./matematica/ref-matematica.tex
+) (./conceptos/elementos/general.tex) (./conceptos/elementos/desplazamiento.tex) (./conceptos/elementos/punto_inicial.tex) (./conceptos/elementos/posicion_equilibrio.tex) (./conceptos/elementos/cresta.tex) (./conceptos/elementos/valle.tex) (./conceptos/elementos/amplitud.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[4
+[5
 
 ]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[5{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}]
+
+
+[6{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}]
+
+[7{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]) (./conceptos/elementos/distancia.tex) (./conceptos/elementos/longitud_onda.tex) (./conceptos/elementos/tiempo.tex) (./conceptos/elementos/periodo.tex) (./conceptos/elementos/frecuencia.tex)) (./matematica/ref-matematica.tex
+
+[8]
 CAPÍTULO 2.
 (./matematica/definicion.tex) (./matematica/caracteristicas.tex)) (./tipos/ref-tipos.tex
 
-[6
+[9
 
-{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}]
+]
 CAPÍTULO 3.
 (./tipos/naturaleza_emision/mecanica.tex) (./tipos/naturaleza_emision/electromagnetica.tex) (./tipos/mov_particulas/transversal.tex) (./tipos/mov_particulas/longitudinal.tex) (./tipos/sentido_propagacion/viajera.tex) (./tipos/sentido_propagacion/estacionaria.tex)) (./fenomenos/ref-fenomenos.tex
 
-[7
+[10
 
 ]
 CAPÍTULO 4.
 (./fenomenos/reflexion/definicion.tex) (./fenomenos/reflexion/tipos.tex) (./fenomenos/refraccion/definicion.tex) (./fenomenos/refraccion/matematica.tex) (./fenomenos/difraccion/definicion.tex) (./fenomenos/difraccion/tipos.tex) (./fenomenos/absorcion/definicion.tex))
 
-[8
+[11
 
 ] (./main.aux)
  ***********
@@ -746,21 +755,21 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-04-29>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 63924F1B71366A0F3372CF2D427B6440;4774.
+(rerunfilecheck)             Checksum: 879B61BC90CCDCED1D535CBBA45C9C8F;5463.
  ) 
 Here is how much of TeX's memory you used:
- 32205 strings out of 469590
- 759868 string characters out of 5470346
- 1275212 words of memory out of 5000000
- 58371 multiletter control sequences out of 15000+600000
- 676015 words of font info for 69 fonts, out of 8000000 for 9000
+ 32245 strings out of 469590
+ 760814 string characters out of 5470346
+ 1276212 words of memory out of 5000000
+ 58399 multiletter control sequences out of 15000+600000
+ 681995 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  104i,11n,108p,1193b,2136s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmro12.pfb>
-Output written on main.pdf (8 pages, 129621 bytes).
+</usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmro12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
+Output written on main.pdf (11 pages, 140686 bytes).
 PDF statistics:
- 287 PDF objects out of 1000 (max. 8388607)
- 263 compressed objects within 3 object streams
- 51 named destinations out of 1000 (max. 500000)
- 317 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 321 PDF objects out of 1000 (max. 8388607)
+ 292 compressed objects within 3 object streams
+ 57 named destinations out of 1000 (max. 500000)
+ 341 words of extra memory for PDF output out of 10000 (max. 10000000)
 
