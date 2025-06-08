@@ -1,0 +1,38 @@
+\contentsline {chapter}{\numberline {1}Conceptos Básicos}{4}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Definición}{4}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Elementos}{5}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Amplitud}{5}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Cresta}{5}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}Valle}{5}{subsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.2.4}Punto Incial}{5}{subsection.1.2.4}%
+\contentsline {subsection}{\numberline {1.2.5}Posición de Equilibrio}{5}{subsection.1.2.5}%
+\contentsline {subsection}{\numberline {1.2.6}Distancia}{5}{subsection.1.2.6}%
+\contentsline {subsection}{\numberline {1.2.7}Longitud de Onda}{5}{subsection.1.2.7}%
+\contentsline {subsection}{\numberline {1.2.8}Tiempo}{5}{subsection.1.2.8}%
+\contentsline {subsection}{\numberline {1.2.9}Periodo}{5}{subsection.1.2.9}%
+\contentsline {subsection}{\numberline {1.2.10}Frecuencia}{5}{subsection.1.2.10}%
+\contentsline {chapter}{\numberline {2}Modelo Matemático}{6}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Definición}{6}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Características}{6}{section.2.2}%
+\contentsline {chapter}{\numberline {3}Tipos de Ondas}{7}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Naturaleza de Emisión}{7}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Onda Mecánica}{7}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Onda Electromagnética}{7}{subsection.3.1.2}%
+\contentsline {section}{\numberline {3.2}Movimiento de Partículas}{7}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Onda Transversal}{7}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Onda Longitudinal}{7}{subsection.3.2.2}%
+\contentsline {section}{\numberline {3.3}Sentido de Propagación}{7}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Onda Viajera}{7}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Onda Estacionaria}{7}{subsection.3.3.2}%
+\contentsline {chapter}{\numberline {4}Fenómenos Ondulatorios}{8}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Reflexión}{8}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Definición}{8}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Tipos}{8}{subsection.4.1.2}%
+\contentsline {section}{\numberline {4.2}Refracción}{8}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Definición}{8}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Descripción Matemática}{8}{subsection.4.2.2}%
+\contentsline {section}{\numberline {4.3}Difracción}{8}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Definición}{8}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Tipos}{8}{subsection.4.3.2}%
+\contentsline {section}{\numberline {4.4}Absorción}{8}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Definición}{8}{subsection.4.4.1}%
