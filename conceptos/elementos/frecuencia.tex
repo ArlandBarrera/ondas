@@ -1,0 +1,22 @@
+\begin{tikzpicture}
+  \begin{axis}[
+    xmin=0,xmax=4.5*pi,
+    ymin=-1.2,ymax=1.2,
+    axis lines=middle,
+    xtick={0},
+    xtick={2*pi},xticklabels={1},
+    xticklabel style={anchor=south west},
+    ytick={0},
+    xlabel=Tiempo ($s$)
+    ]
+
+    % Funcion senoidal
+    \addplot[color=blue,samples=100,domain=0:4*pi,thick]{sin(deg(x))};
+
+    % Frecuencia
+    \draw[red,thick] (axis cs:0,1) -- (axis cs:2*pi,1) node[pos=0.5,above] {Frecuencia ($f$)};
+
+    % Linea vertical
+    \draw[red,dashed,very thick] (axis cs:2*pi,1) -- (axis cs:2*pi,0);
+  \end{axis}
+\end{tikzpicture}

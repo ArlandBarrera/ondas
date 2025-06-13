@@ -4,8 +4,6 @@ La amplitud puede ser hacia arriba o hacia abajo con respecto a la posición de 
 
 En el eje de desplazamiento el límite superior se denomina $H$ y el inferior $L$.
 
-{
-\centering
 \begin{tikzpicture}
   \begin{axis}[
     xmin=-0,xmax=4.5*pi,
@@ -13,7 +11,7 @@ En el eje de desplazamiento el límite superior se denomina $H$ y el inferior $L
     axis lines=middle,
     xtick={0},
     ytick={-1,1},yticklabels={$L$,$H$},
-    ylabel = desplazamiento,
+    ylabel = Desplazamiento,
     ]
 
     % Funcion senoidal
@@ -28,12 +26,8 @@ En el eje de desplazamiento el límite superior se denomina $H$ y el inferior $L
 
     % Posicion de equilibrio
     \node[above] at (axis cs:7*pi/2,0) {Posición de equilibrio};
-
-    % Label y
-    % \node[right,rotate=90] at (axis cs:0,0) {desplazamiento};
   \end{axis}
 \end{tikzpicture}
-}
 
 Para calcular la amplitud se puede hacer uso de los límites superior $(H)$ e inferior $(L)$ en el eje de desplazamiento $y$. Hay dos formas:
 

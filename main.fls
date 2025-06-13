@@ -392,6 +392,7 @@ INPUT conceptos/elementos/desplazamiento.tex
 INPUT ./conceptos/elementos/punto_inicial.tex
 INPUT ./conceptos/elementos/punto_inicial.tex
 INPUT conceptos/elementos/punto_inicial.tex
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc
 INPUT ./conceptos/elementos/posicion_equilibrio.tex
 INPUT ./conceptos/elementos/posicion_equilibrio.tex
 INPUT conceptos/elementos/posicion_equilibrio.tex
@@ -404,7 +405,6 @@ INPUT conceptos/elementos/valle.tex
 INPUT ./conceptos/elementos/amplitud.tex
 INPUT ./conceptos/elementos/amplitud.tex
 INPUT conceptos/elementos/amplitud.tex
-INPUT /usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/lm/ec-lmr8.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/lm/ec-lmr6.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc
