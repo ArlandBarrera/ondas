@@ -1,10 +1,10 @@
 \contentsline {chapter}{\numberline {1}Conceptos Básicos}{5}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Definición}{5}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Elementos}{6}{section.1.2}%
-\contentsline {subsection}{\numberline {1.2.1}Desplazamiento}{6}{subsection.1.2.1}%
-\contentsline {subsection}{\numberline {1.2.2}Punto Inicial}{7}{subsection.1.2.2}%
-\contentsline {subsection}{\numberline {1.2.3}Posición de Equilibrio}{7}{subsection.1.2.3}%
-\contentsline {subsection}{\numberline {1.2.4}Cresta}{8}{subsection.1.2.4}%
+\contentsline {section}{\numberline {1.2}Elementos}{5}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Posición de Equilibrio}{5}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Desplazamiento}{6}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}Punto Inicial}{7}{subsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.2.4}Cresta}{7}{subsection.1.2.4}%
 \contentsline {subsection}{\numberline {1.2.5}Valle}{8}{subsection.1.2.5}%
 \contentsline {subsection}{\numberline {1.2.6}Amplitud}{8}{subsection.1.2.6}%
 \contentsline {subsubsection}{\numberline {1.2.6.1}Promedio de la resta de ambos límites}{9}{subsubsection.1.2.6.1}%
