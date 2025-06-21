@@ -374,6 +374,10 @@ INPUT ./main.lop
 INPUT ./main.lop
 INPUT main.lop
 OUTPUT main.lop
+INPUT ./main.loe
+INPUT ./main.loe
+INPUT main.loe
+OUTPUT main.loe
 INPUT ./conceptos/ref-conceptos.tex
 INPUT ./conceptos/ref-conceptos.tex
 INPUT conceptos/ref-conceptos.tex
@@ -399,6 +403,7 @@ INPUT conceptos/elementos/punto_inicial.tex
 INPUT ./conceptos/elementos/cresta.tex
 INPUT ./conceptos/elementos/cresta.tex
 INPUT conceptos/elementos/cresta.tex
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc
 INPUT ./conceptos/elementos/valle.tex
 INPUT ./conceptos/elementos/valle.tex
 INPUT conceptos/elementos/valle.tex
@@ -407,7 +412,6 @@ INPUT ./conceptos/elementos/amplitud.tex
 INPUT conceptos/elementos/amplitud.tex
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/lm/ec-lmr8.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/lm/ec-lmr6.tfm
-INPUT /usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc
 INPUT ./conceptos/elementos/distancia.tex
 INPUT ./conceptos/elementos/distancia.tex
@@ -485,5 +489,7 @@ INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx12.pfb
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi12.pfb
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr12.pfb
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr17.pfb
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr8.pfb
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmro12.pfb
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy10.pfb
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy8.pfb
