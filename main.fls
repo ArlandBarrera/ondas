@@ -381,6 +381,8 @@ OUTPUT main.loe
 INPUT ./conceptos/ref-conceptos.tex
 INPUT ./conceptos/ref-conceptos.tex
 INPUT conceptos/ref-conceptos.tex
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/lm/ec-lmbx12.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/lm/ec-lmr17.tfm
 INPUT ./conceptos/definicion.tex
@@ -393,7 +395,6 @@ INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/lm/ec-lmbx12.tfm
 INPUT ./conceptos/elementos/posicion_equilibrio.tex
 INPUT ./conceptos/elementos/posicion_equilibrio.tex
 INPUT conceptos/elementos/posicion_equilibrio.tex
-INPUT /usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc
 INPUT ./conceptos/elementos/desplazamiento.tex
 INPUT ./conceptos/elementos/desplazamiento.tex
 INPUT conceptos/elementos/desplazamiento.tex
@@ -403,7 +404,6 @@ INPUT conceptos/elementos/punto_inicial.tex
 INPUT ./conceptos/elementos/cresta.tex
 INPUT ./conceptos/elementos/cresta.tex
 INPUT conceptos/elementos/cresta.tex
-INPUT /usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc
 INPUT ./conceptos/elementos/valle.tex
 INPUT ./conceptos/elementos/valle.tex
 INPUT conceptos/elementos/valle.tex
@@ -449,6 +449,7 @@ INPUT matematica/caracteristicas.tex
 INPUT ./tipos/ref-tipos.tex
 INPUT ./tipos/ref-tipos.tex
 INPUT tipos/ref-tipos.tex
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc
 INPUT ./tipos/naturaleza_emision/mecanica.tex
 INPUT ./tipos/naturaleza_emision/mecanica.tex
 INPUT tipos/naturaleza_emision/mecanica.tex
@@ -495,7 +496,9 @@ INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx12.pfb
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmex10.pfb
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi12.pfb
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi8.pfb
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr12.pfb
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr17.pfb
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr8.pfb
