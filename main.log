@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.5.31)  21 JUN 2025 17:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.5.31)  22 JUN 2025 20:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -761,21 +761,31 @@ Package hyperref Info: bookmark level for unknown ecuacion defaults to 0 on inpu
 
 [14]
 CAPÍTULO 2.
-(./matematica/definicion.tex) (./matematica/caracteristicas.tex)) (./tipos/ref-tipos.tex
+(./matematica/definicion.tex) (./matematica/componentes/amplitud.tex)
+Underfull \vbox (badness 2717) has occurred while \output is active []
+
+
 
 [15
 
-]
+] (./matematica/componentes/frecuencia.tex) (./matematica/componentes/fase.tex)
+Underfull \vbox (badness 1142) has occurred while \output is active []
+
+
+
+[16] (./matematica/caracteristicas.tex)) (./tipos/ref-tipos.tex
+
+[17]
 CAPÍTULO 3.
 (./tipos/naturaleza_emision/mecanica.tex) (./tipos/naturaleza_emision/electromagnetica.tex) (./tipos/mov_particulas/transversal.tex) (./tipos/mov_particulas/longitudinal.tex) (./tipos/sentido_propagacion/viajera.tex) (./tipos/sentido_propagacion/estacionaria.tex)) (./fenomenos/ref-fenomenos.tex
 
-[16
+[18
 
 ]
 CAPÍTULO 4.
 (./fenomenos/reflexion/definicion.tex) (./fenomenos/reflexion/tipos.tex) (./fenomenos/refraccion/definicion.tex) (./fenomenos/refraccion/matematica.tex) (./fenomenos/difraccion/definicion.tex) (./fenomenos/difraccion/tipos.tex) (./fenomenos/absorcion/definicion.tex))
 
-[17
+[19
 
 ] (./main.aux)
  ***********
@@ -783,21 +793,21 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-04-29>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: CD4660F7CE9DE1CBCCE7DA3808A4BCF2;5463.
+(rerunfilecheck)             Checksum: 3879DAC8DDF3870BA7A33214D2BA0CEB;5759.
  ) 
 Here is how much of TeX's memory you used:
- 32355 strings out of 469590
- 762701 string characters out of 5470346
- 1281848 words of memory out of 5000000
- 58497 multiletter control sequences out of 15000+600000
+ 32455 strings out of 469590
+ 764877 string characters out of 5470346
+ 1302067 words of memory out of 5000000
+ 58582 multiletter control sequences out of 15000+600000
  681995 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 104i,11n,108p,1193b,2140s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 104i,17n,108p,1193b,2140s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmro12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy8.pfb>
-Output written on main.pdf (17 pages, 182940 bytes).
+Output written on main.pdf (19 pages, 196979 bytes).
 PDF statistics:
- 363 PDF objects out of 1000 (max. 8388607)
- 323 compressed objects within 4 object streams
- 66 named destinations out of 1000 (max. 500000)
- 341 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 393 PDF objects out of 1000 (max. 8388607)
+ 351 compressed objects within 4 object streams
+ 73 named destinations out of 1000 (max. 500000)
+ 365 words of extra memory for PDF output out of 10000 (max. 10000000)
 

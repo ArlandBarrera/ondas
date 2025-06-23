@@ -1,0 +1,34 @@
+Esto modifica el desplazamiento de la onda en el eje $x$.
+
+\[
+  f(x)=\sin(x-\phi)
+\]
+
+\begin{tikzpicture}
+  \begin{axis}[
+    xmin=0,xmax=2.2*pi,
+    ymin=-1.2,ymax=1.2,
+    axis lines=middle,
+    % xtick={0},
+    xtick={pi/2,pi,3*pi/2,2*pi},
+    xticklabels={
+      $\dfrac{\pi}{2}$,
+      $\pi$,
+      $\dfrac{3}{2}\pi$,
+      $2\pi$
+    },
+    xticklabel style={anchor=south west},
+    ytick={-1,1},yticklabels={$-1$,$1$}
+    ]
+
+    \addplot[color=red,samples=100,domain=0:2*pi,thick]{sin(deg(x))};
+
+    \addplot[color=green,samples=100,domain=0:2*pi,thick]{sin(deg(x - 90))};
+
+    \addplot[color=blue,samples=100,domain=0:2*pi,thick]{sin(deg(x - 180))};
+
+    % \addplot[color=yellow,samples=100,domain=0:2*pi,thick]{sin(deg(x - 270))};
+
+    % \legend{$\sin(x - \frac{\pi}{2})$, $\sin(x - \pi))$, $\sin(x - \frac{3}{2}\pi))$}
+  \end{axis}
+\end{tikzpicture}

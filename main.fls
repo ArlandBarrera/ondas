@@ -434,6 +434,15 @@ INPUT matematica/ref-matematica.tex
 INPUT ./matematica/definicion.tex
 INPUT ./matematica/definicion.tex
 INPUT matematica/definicion.tex
+INPUT ./matematica/componentes/amplitud.tex
+INPUT ./matematica/componentes/amplitud.tex
+INPUT matematica/componentes/amplitud.tex
+INPUT ./matematica/componentes/frecuencia.tex
+INPUT ./matematica/componentes/frecuencia.tex
+INPUT matematica/componentes/frecuencia.tex
+INPUT ./matematica/componentes/fase.tex
+INPUT ./matematica/componentes/fase.tex
+INPUT matematica/componentes/fase.tex
 INPUT ./matematica/caracteristicas.tex
 INPUT ./matematica/caracteristicas.tex
 INPUT matematica/caracteristicas.tex
