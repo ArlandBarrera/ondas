@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.5.31)  23 JUN 2025 20:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.5.31)  24 JUN 2025 22:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -563,7 +563,7 @@ File: pgflibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )))) (./renombrar-comandos.tex) (./nuevos-comandos.tex (./hipervinculos.tex
 
 Package xr Warning: 
-No file conceptos,matematica,tipos,fenomenos/ref-conceptos,matematica,tipos,fenomenos.aux
+No file conceptos,matematica,tipos,fenomenos,espectroElectromagnetico/ref-conceptos,matematica,tipos,fenomenos,espectroElectromagnetico.aux
 LABELS NOT IMPORTED.
  on input line 16.
 
@@ -789,15 +789,67 @@ File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 
 [21]
 CAPÍTULO 3.
-(./tipos/naturaleza_emision/mecanica.tex) (./tipos/naturaleza_emision/electromagnetica.tex) (./tipos/mov_particulas/transversal.tex) (./tipos/mov_particulas/longitudinal.tex) (./tipos/sentido_propagacion/viajera.tex) (./tipos/sentido_propagacion/estacionaria.tex)) (./fenomenos/ref-fenomenos.tex
+(./tipos/mov_particulas/transversal.tex
+<imagenes/onda_transversal.png, id=419, 735.74875pt x 240.9pt>
+File: imagenes/onda_transversal.png Graphic file (type png)
+<use imagenes/onda_transversal.png>
+Package pdftex.def Info: imagenes/onda_transversal.png  used on input line 5.
+(pdftex.def)             Requested size: 294.29428pt x 96.35828pt.
+) (./tipos/mov_particulas/longitudinal.tex
+<imagenes/onda_longitudinal.png, id=422, 744.7825pt x 133.49875pt>
+File: imagenes/onda_longitudinal.png Graphic file (type png)
+<use imagenes/onda_longitudinal.png>
+Package pdftex.def Info: imagenes/onda_longitudinal.png  used on input line 7.
+(pdftex.def)             Requested size: 297.90771pt x 53.39854pt.
+
+Underfull \vbox (badness 1515) has occurred while \output is active []
+
+
 
 [22
 
-]
-CAPÍTULO 4.
-(./fenomenos/reflexion/definicion.tex) (./fenomenos/reflexion/tipos.tex) (./fenomenos/refraccion/definicion.tex) (./fenomenos/refraccion/matematica.tex) (./fenomenos/difraccion/definicion.tex) (./fenomenos/difraccion/tipos.tex) (./fenomenos/absorcion/definicion.tex))
+ <./imagenes/onda_transversal.png (PNG copy)>]) (./tipos/naturaleza_emision/mecanica.tex) (./tipos/naturaleza_emision/electromagnetica.tex
+<imagenes/campo_electrico_magnetico.png, id=434, 513.92pt x 358.33875pt>
+File: imagenes/campo_electrico_magnetico.png Graphic file (type png)
+<use imagenes/campo_electrico_magnetico.png>
+Package pdftex.def Info: imagenes/campo_electrico_magnetico.png  used on input line 7.
+(pdftex.def)             Requested size: 256.95937pt x 179.16893pt.
 
-[23
+Underfull \vbox (badness 1019) has occurred while \output is active []
+
+
+
+[23 <./imagenes/onda_longitudinal.png (PNG copy)>]) (./tipos/sentido_propagacion/viajera.tex) (./tipos/sentido_propagacion/estacionaria.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[24 <./imagenes/campo_electrico_magnetico.png>])) (./fenomenos/ref-fenomenos.tex
+
+[25]
+CAPÍTULO 4.
+(./fenomenos/reflexion/definicion.tex) (./fenomenos/reflexion/tipos.tex) (./fenomenos/refraccion/definicion.tex) (./fenomenos/refraccion/matematica.tex) (./fenomenos/difraccion/definicion.tex) (./fenomenos/difraccion/tipos.tex) (./fenomenos/absorcion/definicion.tex)) (./espectroElectromagnetico/ref-espectroElectromagnetico.tex
+
+[26
+
+]
+CAPÍTULO 5.
+) (./main.bbl
+
+[27
+
+]
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 4.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+Underfull \hbox (badness 10000) in paragraph at lines 8--10
+[]\T1/lmr/m/n/11 ``Ondas elec-tro-mag-n�ti-cas - Lab-ster.'' [][]$\T1/lmtt/m/n/11 https : / / theory . labster . com / es /
+ []
+
+)
+
+[28
 
 ] (./main.aux)
  ***********
@@ -805,21 +857,21 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-04-29>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 79640535B3BA43AF7F7C8FC3D5C1BB4E;6302.
+(rerunfilecheck)             Checksum: 7EF5D4F49CC9141A2601B34B12AE95C5;6477.
  ) 
 Here is how much of TeX's memory you used:
- 32594 strings out of 469590
- 768107 string characters out of 5470346
- 1303795 words of memory out of 5000000
- 58669 multiletter control sequences out of 15000+600000
- 682370 words of font info for 72 fonts, out of 8000000 for 9000
+ 32723 strings out of 469590
+ 771185 string characters out of 5470346
+ 1357487 words of memory out of 5000000
+ 58776 multiletter control sequences out of 15000+600000
+ 682688 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  104i,17n,108p,1193b,2140s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmex10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmro12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy8.pfb>
-Output written on main.pdf (23 pages, 232230 bytes).
+</usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmex10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmro12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
+Output written on main.pdf (28 pages, 472175 bytes).
 PDF statistics:
- 497 PDF objects out of 1000 (max. 8388607)
- 445 compressed objects within 5 object streams
- 107 named destinations out of 1000 (max. 500000)
- 397 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 558 PDF objects out of 1000 (max. 8388607)
+ 495 compressed objects within 5 object streams
+ 120 named destinations out of 1000 (max. 500000)
+ 420 words of extra memory for PDF output out of 10000 (max. 10000000)
 

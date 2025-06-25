@@ -20,21 +20,34 @@
 % ------------------------------
 % NOTE: Se crea el hipervinculo partir de la referencia al documento externo
 % por eso es importante definir el documento externo antes de esto
+%
 \newcommand{\link}[1]{
   \expandafter\newcommand\csname #1\endcsname{
     \unskip\hyperref[lbl-#1]{#1}\ignorespaces
   }
 }
-
-% [It]erar temas con \link -> \itlink
 %
+% % [It]erar temas con \link -> \itlink
+% %
 \newcommand{\itlink}[1]{
   \forcsvlist{\link}{#1}
 }
-
-% Crear hipervinculos
-% Temas
-\expandafter\itlink\expandafter{\temas}
-
-% Subtemas
+%
+% % Crear hipervinculos
+% % Temas
+% \expandafter\itlink\expandafter{\temas}
+%
+% % Subtemas
 \expandafter\itlink\expandafter{\subtemas}
+
+% Hipervinculos personalizados manuales
+%
+\newcommand{\EspectroElectromagnetico}{
+  \unskip\hyperref[lbl-espectroElectromagnetico]{espectro electromagnético}\ignorespaces
+}
+\newcommand{\electromagnetica}{
+  \unskip\hyperref[lbl-electromagnetica]{electromagnética}\ignorespaces
+}
+\newcommand{\mecanica}{
+  \unskip\hyperref[lbl-mecanica]{mecánica}\ignorespaces
+}
