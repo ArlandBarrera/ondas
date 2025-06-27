@@ -538,6 +538,11 @@ INPUT ./imagenes/reflexion_difusa.png
 INPUT ./fenomenos/refraccion/definicion.tex
 INPUT ./fenomenos/refraccion/definicion.tex
 INPUT fenomenos/refraccion/definicion.tex
+INPUT ./imagenes/prisma.png
+INPUT ./imagenes/prisma.png
+INPUT ./imagenes/prisma.png
+INPUT ./imagenes/prisma.png
+INPUT ./imagenes/prisma.png
 INPUT ./fenomenos/refraccion/snell.tex
 INPUT ./fenomenos/refraccion/snell.tex
 INPUT fenomenos/refraccion/snell.tex
@@ -546,6 +551,11 @@ INPUT ./imagenes/ley_snell.png
 INPUT ./imagenes/ley_snell.png
 INPUT ./imagenes/ley_snell.png
 INPUT ./imagenes/ley_snell.png
+INPUT ./imagenes/rayos_refractados.png
+INPUT ./imagenes/rayos_refractados.png
+INPUT ./imagenes/rayos_refractados.png
+INPUT ./imagenes/rayos_refractados.png
+INPUT ./imagenes/rayos_refractados.png
 INPUT ./fenomenos/difraccion/definicion.tex
 INPUT ./fenomenos/difraccion/definicion.tex
 INPUT fenomenos/difraccion/definicion.tex
