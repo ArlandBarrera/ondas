@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.5.31)  25 JUN 2025 20:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.5.31)  26 JUN 2025 22:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -861,13 +861,24 @@ File: imagenes/reflexion_difusa.png Graphic file (type png)
 <use imagenes/reflexion_difusa.png>
 Package pdftex.def Info: imagenes/reflexion_difusa.png  used on input line 5.
 (pdftex.def)             Requested size: 179.16893pt x 106.89911pt.
-) (./fenomenos/refraccion/definicion.tex) (./fenomenos/refraccion/snell.tex) (./fenomenos/difraccion/definicion.tex) (./fenomenos/difraccion/tipos.tex) (./fenomenos/absorcion/definicion.tex)) (./espectroElectromagnetico/ref-espectroElectromagnetico.tex
+) (./fenomenos/refraccion/definicion.tex) (./fenomenos/refraccion/snell.tex
+<imagenes/ley_snell.png, id=466, 287.72495pt x 286.36987pt>
+File: imagenes/ley_snell.png Graphic file (type png)
+<use imagenes/ley_snell.png>
+Package pdftex.def Info: imagenes/ley_snell.png  used on input line 3.
+(pdftex.def)             Requested size: 287.72423pt x 286.36917pt.
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[28 <./imagenes/reflexion_especular.png (PNG copy)> <./imagenes/reflexion_difusa.png (PNG copy)>]
+
+
+[28 <./imagenes/reflexion_especular.png (PNG copy)> <./imagenes/reflexion_difusa.png (PNG copy)>] (./fenomenos/difraccion/definicion.tex) (./fenomenos/difraccion/tipos.tex) (./fenomenos/absorcion/definicion.tex)) (./espectroElectromagnetico/ref-espectroElectromagnetico.tex
+
+[29 <./imagenes/ley_snell.png>]
 CAPÍTULO 5.
 ) (./main.bbl
 
-[29
+[30
 
 ]
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 4.
@@ -880,7 +891,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--10
 
 )
 
-[30
+[31
 
 ] (./main.aux)
  ***********
@@ -891,18 +902,18 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: DD7408BE60FB3929CF92641DDB9FCE10;6339.
  ) 
 Here is how much of TeX's memory you used:
- 32773 strings out of 469590
- 772674 string characters out of 5470346
+ 32782 strings out of 469590
+ 772893 string characters out of 5470346
  1357599 words of memory out of 5000000
- 58811 multiletter control sequences out of 15000+600000
+ 58818 multiletter control sequences out of 15000+600000
  682688 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  104i,17n,108p,1193b,2140s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmex10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmro12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on main.pdf (30 pages, 1211649 bytes).
+Output written on main.pdf (31 pages, 1225868 bytes).
 PDF statistics:
- 578 PDF objects out of 1000 (max. 8388607)
- 508 compressed objects within 6 object streams
- 128 named destinations out of 1000 (max. 500000)
- 424 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 586 PDF objects out of 1000 (max. 8388607)
+ 513 compressed objects within 6 object streams
+ 130 named destinations out of 1000 (max. 500000)
+ 429 words of extra memory for PDF output out of 10000 (max. 10000000)
 
