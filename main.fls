@@ -389,6 +389,7 @@ INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/lm/ec-lmr17.tfm
 INPUT ./conceptos/definicion.tex
 INPUT ./conceptos/definicion.tex
 INPUT conceptos/definicion.tex
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/lm/ec-lmri12.tfm
 INPUT ./conceptos/elementos/general.tex
 INPUT ./conceptos/elementos/general.tex
 INPUT conceptos/elementos/general.tex
@@ -486,6 +487,11 @@ INPUT ./imagenes/onda_longitudinal.png
 INPUT ./tipos/naturaleza_emision/mecanica.tex
 INPUT ./tipos/naturaleza_emision/mecanica.tex
 INPUT tipos/naturaleza_emision/mecanica.tex
+INPUT ./imagenes/ondas_agua.jpg
+INPUT ./imagenes/ondas_agua.jpg
+INPUT ./imagenes/ondas_agua.jpg
+INPUT ./imagenes/ondas_agua.jpg
+INPUT ./imagenes/ondas_agua.jpg
 INPUT ./tipos/naturaleza_emision/electromagnetica.tex
 INPUT ./tipos/naturaleza_emision/electromagnetica.tex
 INPUT tipos/naturaleza_emision/electromagnetica.tex
@@ -585,6 +591,7 @@ INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi8.pfb
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr12.pfb
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr17.pfb
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr8.pfb
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmri12.pfb
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmro12.pfb
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy10.pfb
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy8.pfb

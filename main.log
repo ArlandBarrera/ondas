@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.5.31)  27 JUN 2025 10:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.5.31)  27 JUN 2025 19:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -725,29 +725,29 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 CAPÍTULO 1.
 (./conceptos/definicion.tex
 Package hyperref Info: bookmark level for unknown grafica defaults to 0 on input line 19.
-) (./conceptos/elementos/general.tex) (./conceptos/elementos/posicion_equilibrio.tex)
-
-[6
-
-] (./conceptos/elementos/desplazamiento.tex)
+) (./conceptos/elementos/general.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[7] (./conceptos/elementos/punto_inicial.tex) (./conceptos/elementos/cresta.tex)
-Underfull \vbox (badness 6608) has occurred while \output is active []
+[6
+
+] (./conceptos/elementos/posicion_equilibrio.tex) (./conceptos/elementos/desplazamiento.tex
+Underfull \vbox (badness 2626) has occurred while \output is active []
 
 
 
-[8] (./conceptos/elementos/valle.tex) (./conceptos/elementos/amplitud.tex
-Underfull \vbox (badness 1769) has occurred while \output is active []
+[7]) (./conceptos/elementos/punto_inicial.tex) (./conceptos/elementos/cresta.tex
+Underfull \vbox (badness 2343) has occurred while \output is active []
 
 
+
+[8]) (./conceptos/elementos/valle.tex) (./conceptos/elementos/amplitud.tex
 
 [9]
 
 [10]) (./conceptos/elementos/distancia.tex) (./conceptos/elementos/longitud_onda.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 7504) has occurred while \output is active []
 
 
 
@@ -790,13 +790,13 @@ File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 [21]
 CAPÍTULO 3.
 (./tipos/mov_particulas/transversal.tex
-<imagenes/onda_transversal.png, id=415, 735.74875pt x 240.9pt>
+<imagenes/onda_transversal.png, id=416, 735.74875pt x 240.9pt>
 File: imagenes/onda_transversal.png Graphic file (type png)
 <use imagenes/onda_transversal.png>
 Package pdftex.def Info: imagenes/onda_transversal.png  used on input line 5.
 (pdftex.def)             Requested size: 294.29428pt x 96.35828pt.
 ) (./tipos/mov_particulas/longitudinal.tex
-<imagenes/onda_longitudinal.png, id=418, 744.7825pt x 133.49875pt>
+<imagenes/onda_longitudinal.png, id=419, 744.7825pt x 133.49875pt>
 File: imagenes/onda_longitudinal.png Graphic file (type png)
 <use imagenes/onda_longitudinal.png>
 Package pdftex.def Info: imagenes/onda_longitudinal.png  used on input line 7.
@@ -808,34 +808,34 @@ Underfull \vbox (badness 1515) has occurred while \output is active []
 
 [22
 
- <./imagenes/onda_transversal.png (PNG copy)>]) (./tipos/naturaleza_emision/mecanica.tex) (./tipos/naturaleza_emision/electromagnetica.tex
-<imagenes/campo_electrico_magnetico.png, id=430, 513.92pt x 358.33875pt>
+ <./imagenes/onda_transversal.png (PNG copy)>]) (./tipos/naturaleza_emision/mecanica.tex
+<imagenes/ondas_agua.jpg, id=430, 1445.4pt x 993.7125pt>
+File: imagenes/ondas_agua.jpg Graphic file (type jpg)
+<use imagenes/ondas_agua.jpg>
+Package pdftex.def Info: imagenes/ondas_agua.jpg  used on input line 5.
+(pdftex.def)             Requested size: 289.07487pt x 198.73897pt.
+
+
+[23 <./imagenes/onda_longitudinal.png (PNG copy)> <./imagenes/ondas_agua.jpg>]) (./tipos/naturaleza_emision/electromagnetica.tex
+<imagenes/campo_electrico_magnetico.png, id=440, 513.92pt x 358.33875pt>
 File: imagenes/campo_electrico_magnetico.png Graphic file (type png)
 <use imagenes/campo_electrico_magnetico.png>
 Package pdftex.def Info: imagenes/campo_electrico_magnetico.png  used on input line 7.
 (pdftex.def)             Requested size: 256.95937pt x 179.16893pt.
-
-Underfull \vbox (badness 1019) has occurred while \output is active []
-
-
-
-[23 <./imagenes/onda_longitudinal.png (PNG copy)>]) (./tipos/sentido_propagacion/viajera.tex) (./tipos/sentido_propagacion/estacionaria.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
+) (./tipos/sentido_propagacion/viajera.tex) (./tipos/sentido_propagacion/estacionaria.tex
 
 [24 <./imagenes/campo_electrico_magnetico.png>])) (./fenomenos/ref-fenomenos.tex
 
 [25]
 CAPÍTULO 4.
 (./fenomenos/reflexion/definicion.tex
-<imagenes/reflexion_monte.png, id=451, 1927.2pt x 1529.715pt>
+<imagenes/reflexion_monte.png, id=456, 1927.2pt x 1529.715pt>
 File: imagenes/reflexion_monte.png Graphic file (type png)
 <use imagenes/reflexion_monte.png>
 Package pdftex.def Info: imagenes/reflexion_monte.png  used on input line 5.
 (pdftex.def)             Requested size: 289.06754pt x 229.44734pt.
 ) (./fenomenos/reflexion/ley_reflexion.tex
-<imagenes/ley_reflexion.png, id=453, 1445.4pt x 813.0375pt>
+<imagenes/ley_reflexion.png, id=458, 1445.4pt x 813.0375pt>
 File: imagenes/ley_reflexion.png Graphic file (type png)
 <use imagenes/ley_reflexion.png>
 Package pdftex.def Info: imagenes/ley_reflexion.png  used on input line 5.
@@ -845,7 +845,7 @@ Package pdftex.def Info: imagenes/ley_reflexion.png  used on input line 5.
 [26
 
  <./imagenes/reflexion_monte.png>]) (./fenomenos/reflexion/especular.tex
-<imagenes/reflexion_especular.png, id=460, 356.33125pt x 214.8025pt>
+<imagenes/reflexion_especular.png, id=465, 356.33125pt x 214.8025pt>
 File: imagenes/reflexion_especular.png Graphic file (type png)
 <use imagenes/reflexion_especular.png>
 Package pdftex.def Info: imagenes/reflexion_especular.png  used on input line 5.
@@ -856,33 +856,19 @@ Underfull \vbox (badness 3108) has occurred while \output is active []
 
 
 [27 <./imagenes/ley_reflexion.png (PNG copy)>] (./fenomenos/reflexion/difusa.tex
-<imagenes/reflexion_difusa.png, id=468, 358.33875pt x 213.79875pt>
+<imagenes/reflexion_difusa.png, id=473, 358.33875pt x 213.79875pt>
 File: imagenes/reflexion_difusa.png Graphic file (type png)
 <use imagenes/reflexion_difusa.png>
 Package pdftex.def Info: imagenes/reflexion_difusa.png  used on input line 5.
 (pdftex.def)             Requested size: 179.16893pt x 106.89911pt.
 ) (./fenomenos/refraccion/definicion.tex
-<imagenes/prisma.png, id=470, 453.0015pt x 329.4855pt>
+<imagenes/prisma.png, id=475, 453.0015pt x 329.4855pt>
 File: imagenes/prisma.png Graphic file (type png)
 <use imagenes/prisma.png>
 Package pdftex.def Info: imagenes/prisma.png  used on input line 7.
 (pdftex.def)             Requested size: 226.50018pt x 164.74234pt.
-
-
-./fenomenos/refraccion/definicion.tex:11: LaTeX Error: Unicode character с (U+0441)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.11 ...agenes claras mediante lentes de gafas, с
-                                                  ámaras, telescopios, micr...
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
 ) (./fenomenos/refraccion/snell.tex
-<imagenes/ley_snell.png, id=472, 287.72495pt x 286.36987pt>
+<imagenes/ley_snell.png, id=477, 287.72495pt x 286.36987pt>
 File: imagenes/ley_snell.png Graphic file (type png)
 <use imagenes/ley_snell.png>
 Package pdftex.def Info: imagenes/ley_snell.png  used on input line 3.
@@ -895,7 +881,7 @@ Underfull \vbox (badness 2903) has occurred while \output is active []
 [28 <./imagenes/reflexion_especular.png (PNG copy)> <./imagenes/reflexion_difusa.png (PNG copy)>]
 
 [29 <./imagenes/prisma.png> <./imagenes/ley_snell.png>]
-<imagenes/rayos_refractados.png, id=489, 288.17662pt x 289.08pt>
+<imagenes/rayos_refractados.png, id=494, 288.17662pt x 289.08pt>
 File: imagenes/rayos_refractados.png Graphic file (type png)
 <use imagenes/rayos_refractados.png>
 Package pdftex.def Info: imagenes/rayos_refractados.png  used on input line 43.
@@ -918,7 +904,7 @@ LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 4.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Underfull \hbox (badness 10000) in paragraph at lines 8--10
+Underfull \hbox (badness 10000) in paragraph at lines 12--14
 []\T1/lmr/m/n/11 ``Ondas elec-tro-mag-n�ti-cas - Lab-ster.'' [][]$\T1/lmtt/m/n/11 https : / / theory . labster . com / es /
  []
 
@@ -931,26 +917,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--10
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-04-29>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: DD7408BE60FB3929CF92641DDB9FCE10;6339.
  ) 
 Here is how much of TeX's memory you used:
- 32809 strings out of 469590
- 773478 string characters out of 5470346
- 1357717 words of memory out of 5000000
- 58836 multiletter control sequences out of 15000+600000
- 682688 words of font info for 73 fonts, out of 8000000 for 9000
+ 32820 strings out of 469590
+ 773740 string characters out of 5470346
+ 1358594 words of memory out of 5000000
+ 58844 multiletter control sequences out of 15000+600000
+ 686950 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 104i,17n,108p,1193b,2140s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmex10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmro12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on main.pdf (33 pages, 1300950 bytes).
+ 104i,17n,108p,1193b,2137s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmex10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmro12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
+Output written on main.pdf (33 pages, 1610734 bytes).
 PDF statistics:
- 612 PDF objects out of 1000 (max. 8388607)
- 534 compressed objects within 6 object streams
- 139 named destinations out of 1000 (max. 500000)
- 439 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 622 PDF objects out of 1000 (max. 8388607)
+ 541 compressed objects within 6 object streams
+ 141 named destinations out of 1000 (max. 500000)
+ 444 words of extra memory for PDF output out of 10000 (max. 10000000)
 
