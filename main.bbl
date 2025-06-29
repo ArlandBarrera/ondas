@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{educacao}
 G.~de~Oliveira, ``{Ondas mecânicas: o que são, tipos, características - Mundo Educação}.'' \url{https://mundoeducacao.uol.com.br/fisica/ondas-mecanicas.htm}, Julio 2011.
@@ -12,6 +12,10 @@ G.~de~Oliveira, ``{Ondas mecânicas: o que são, tipos, características - Mundo
 ``{Ondas electromagnéticas - Labster}.'' \url{https://theory.labster.com/es/electromagnetic-waves/}.
 \newblock Accedido: 2025-06-24.
 
+\bibitem{sncrfllight}
+M.~J. Parry-Hill, R.~T. Sutter, and M.~W. Davidson, ``{Reflection of Light}.'' \url{https://evidentscientific.com/en/microscope-resource/tutorials/reflection/reflectionangles}.
+\newblock Accedido: 2025-06-25.
+
 \bibitem{wikireflexion}
 ``{Reflection (physics) - Wikipedia}.'' \url{https://en.wikipedia.org/wiki/Reflection_(physics)}.
 \newblock Accedido: 2025-06-25.
@@ -20,8 +24,32 @@ G.~de~Oliveira, ``{Ondas mecânicas: o que são, tipos, características - Mundo
 M.~Abramowitz, R.~T. Sutter, and M.~W. Davidson, ``{Specular and Diffuse Reflection}.'' \url{https://evidentscientific.com/en/microscope-resource/tutorials/reflection/specular}.
 \newblock Accedido: 2025-06-25.
 
+\bibitem{sncrfrlight}
+R.~T. Sutter, T.~J. Fellers, and M.~W. Davidson, ``{Refraction of Light}.'' \url{https://evidentscientific.com/en/microscope-resource/tutorials/refraction/refractionangles}.
+\newblock Accedido: 2025-06-25.
+
 \bibitem{cstmglassprism}
 Caleb, ``{What is a Glass Prism? Learn Light Refraction}.'' \url{https://customglassmfg.net/blog/what-is-glass-prism/}, Agosto 2023.
 \newblock Accedido: 2025-06-27.
+
+\bibitem{rnbsymdfr}
+M.~Margolis, ``{The Science of Diffraction: What is the Diffraction of Light?}.'' \url{https://www.rainbowsymphony.com/blogs/blog/the-science-of-diffraction-what-is-the-diffraction-of-light}, Septiembre 2023.
+\newblock Accedido: 2025-06-28.
+
+\bibitem{sncdfrlight}
+M.~Abramowitz and M.~W. Davidson, ``{Diffraction of Light}.'' \url{https://evidentscientific.com/en/microscope-resource/knowledge-hub/lightandcolor/diffraction}.
+\newblock Accedido: 2025-06-28.
+
+\bibitem{texasdiffraction}
+``{DIFFRACTION OF WAVES}.'' \url{https://web2.ph.utexas.edu/~coker2/index.files/diffraction303l.htm}.
+\newblock Accedido: 2025-06-28.
+
+\bibitem{xmpdiffraction}
+``{10.5.3 Diffraction}.'' \url{https://xmphysics.com/2023/01/02/10-5-3-diffraction-2/}, Enero 2023.
+\newblock Accedido: 2025-06-28.
+
+\bibitem{doncontrolhojas}
+``{Estructura de la hoja}.'' \url{https://www.droncontrol.com/index.php/es/servicios/aplicaciones-agricolas/51-agricola/165-estructura-de-la-hoja}.
+\newblock Accedido: 2025-06-28.
 
 \end{thebibliography}

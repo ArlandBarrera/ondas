@@ -24,24 +24,36 @@
 \contentsline {subsection}{\numberline {2.2.2}Frecuencia Angular}{19}{subsection.2.2.2}%
 \contentsline {section}{\numberline {2.3}Velocidad}{19}{section.2.3}%
 \contentsline {section}{\numberline {2.4}Energía}{21}{section.2.4}%
-\contentsline {chapter}{\numberline {3}Tipos de Ondas}{22}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Movimiento de Partículas}{22}{section.3.1}%
-\contentsline {subsection}{\numberline {3.1.1}Onda Transversal}{22}{subsection.3.1.1}%
-\contentsline {subsection}{\numberline {3.1.2}Onda Longitudinal}{22}{subsection.3.1.2}%
-\contentsline {section}{\numberline {3.2}Naturaleza de Emisión}{23}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}Onda Mecánica}{23}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}Onda Electromagnética}{24}{subsection.3.2.2}%
-\contentsline {section}{\numberline {3.3}Sentido de Propagación}{24}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}Onda Viajera}{24}{subsection.3.3.1}%
-\contentsline {subsection}{\numberline {3.3.2}Onda Estacionaria}{24}{subsection.3.3.2}%
-\contentsline {chapter}{\numberline {4}Fenómenos Ondulatorios}{26}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Reflexión}{26}{section.4.1}%
-\contentsline {subsection}{\numberline {4.1.1}Ley de Reflexión}{27}{subsection.4.1.1}%
-\contentsline {subsection}{\numberline {4.1.2}Reflexión Especular}{27}{subsection.4.1.2}%
-\contentsline {subsection}{\numberline {4.1.3}Reflexión Difusa}{28}{subsection.4.1.3}%
-\contentsline {section}{\numberline {4.2}Refracción}{28}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Ley de Snell}{29}{subsection.4.2.1}%
-\contentsline {section}{\numberline {4.3}Difracción}{31}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}Tipos}{31}{subsection.4.3.1}%
-\contentsline {section}{\numberline {4.4}Absorción}{31}{section.4.4}%
-\contentsline {chapter}{\numberline {5}Espectro Electromagnético}{32}{chapter.5}%
+\contentsline {chapter}{\numberline {3}Interferencia}{22}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Constructiva}{22}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Destructiva}{22}{section.3.2}%
+\contentsline {chapter}{\numberline {4}Tipos de Ondas}{23}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Movimiento de Partículas}{23}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Onda Transversal}{23}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Onda Longitudinal}{23}{subsection.4.1.2}%
+\contentsline {section}{\numberline {4.2}Naturaleza de Emisión}{24}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Onda Mecánica}{24}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Onda Electromagnética}{25}{subsection.4.2.2}%
+\contentsline {section}{\numberline {4.3}Sentido de Propagación}{25}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Onda Viajera}{25}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Onda Estacionaria}{25}{subsection.4.3.2}%
+\contentsline {chapter}{\numberline {5}Fenómenos Ondulatorios}{27}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Reflexión}{27}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Ley de Reflexión}{28}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Reflexión Especular}{28}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.1.3}Reflexión Difusa}{29}{subsection.5.1.3}%
+\contentsline {section}{\numberline {5.2}Refracción}{29}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Ley de Snell}{30}{subsection.5.2.1}%
+\contentsline {section}{\numberline {5.3}Difracción}{32}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Difracción alrededor de un obstáculo}{33}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}Difracción a través de una abertura}{33}{subsection.5.3.2}%
+\contentsline {section}{\numberline {5.4}Absorción}{33}{section.5.4}%
+\contentsline {chapter}{\numberline {6}Espectro Electromagnético}{35}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Ondas de Radio}{35}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Microondas}{35}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Rayos Infrarojos}{35}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Luz Visible}{35}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Rayos Ultravioletas}{35}{section.6.5}%
+\contentsline {section}{\numberline {6.6}Rayos X}{35}{section.6.6}%
+\contentsline {section}{\numberline {6.7}Rayos Gamma}{35}{section.6.7}%
+\contentsline {chapter}{\numberline {7}Sonido}{36}{chapter.7}%
