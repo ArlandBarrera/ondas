@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main"] 1751161216.96374 "main.aux" "main.bbl" "main" 1751161222.45993 0
-  "./referencias.bib" 1751158961.44892 3846 c2f3dd474d22fbde2567917bea756e38 ""
+["bibtex main"] 1751391821.0235 "main.aux" "main.bbl" "main" 1751391826.74532 0
+  "./referencias.bib" 1751391739.68247 4082 d02e81603abdec8222b815a6b52de25c ""
   "/usr/local/texlive/2025/texmf-dist/bibtex/bst/base/ieeetr.bst" 1292289607 18361 1a00e58565e7f19bf2b3e1bfb82254ae ""
-  "main.aux" 1751161222.08097 15803 1d5fd80a1e035e6efd236d5ade9e6a78 "pdflatex"
+  "main.aux" 1751391826.37049 16412 255d4bfda3c2450598b715b44fd7d7f4 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1751161217.156 "main.tex" "main.pdf" "main" 1751161222.46033 0
+["pdflatex"] 1751391821.21248 "main.tex" "main.pdf" "main" 1751391826.74576 0
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1254269338 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc" 1202520719 3486 c7eadf5dcc57b3b2d11736679f6636ba ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc" 1202520719 2405 5dcf2c1b967ee25cc46c58cd52244aed ""
@@ -276,6 +276,8 @@
   "imagenes/difraccion_alrededor.png" 1751156195.23958 11485 fab137ad0a6aef28486435ca0c8da582 ""
   "imagenes/difraccion_atraves.png" 1751154769.63772 53049 060c932890fc0c0f8906fd2ef966a843 ""
   "imagenes/difraccion_nube.png" 1751125607.53524 439955 1166602ce2e3d240e9a435dfa635acbd ""
+  "imagenes/interferencia_constructiva.png" 1751391022.93646 25197 6754bc5c7b191aff6ca1581c979d66d3 ""
+  "imagenes/interferencia_destructiva.png" 1751391148.82404 21170 431164a2f683dbb0a5aa32055ab4a4ff ""
   "imagenes/ley_reflexion.png" 1750893801.99324 82081 a3a64bcef526018969e4d45b23a5d5c0 ""
   "imagenes/ley_snell.png" 1750993684.49956 24019 8f9b653544318c69e4ff564086a6c625 ""
   "imagenes/onda_longitudinal.png" 1750799033.99397 50913 669e934bca5298470c114cfb822dbe61 ""
@@ -286,17 +288,17 @@
   "imagenes/reflexion_difusa.png" 1750896765.98246 79180 10938281441f4db6efd512a90e31b16b ""
   "imagenes/reflexion_especular.png" 1750896699.06487 51279 fbe69f153fa914f610161a9ceb439b99 ""
   "imagenes/reflexion_monte.png" 1750895146.44953 520331 adb1d2361b16bddfd9f5886076561e4a ""
-  "interferencia/constructiva.tex" 1751160477.24353 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "interferencia/definicion.tex" 1751160477.24853 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "interferencia/destructiva.tex" 1751160477.24853 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "interferencia/constructiva.tex" 1751391812.85627 394 4aae879a5d647adcbc1c6b95277e4ca6 ""
+  "interferencia/definicion.tex" 1751390642.54663 595 b07d5fcf1eafb3ee07081f7a385bd021 ""
+  "interferencia/destructiva.tex" 1751391762.42017 398 6b305a4208477625f2f69476427658dc ""
   "interferencia/ref-interferencia.tex" 1751160585.99125 209 af71897d73c9a30b0e3ca6a2f2c8d33c ""
-  "main.aux" 1751161222.08097 15803 1d5fd80a1e035e6efd236d5ade9e6a78 "pdflatex"
-  "main.bbl" 1751161217.13986 2608 666324ada1b7c176c8107730d07910aa "bibtex main"
-  "main.loe" 1751161222.08197 2019 daa050a287941e0184317a030519322a "pdflatex"
-  "main.lop" 1751161222.08197 278 e3284f30a17d0f79fc6a0acd16cc3f4c "pdflatex"
-  "main.out" 1751161222.08197 8024 e1879e5e4867574e78b504bdf09b1d0f "pdflatex"
+  "main.aux" 1751391826.37049 16412 255d4bfda3c2450598b715b44fd7d7f4 "pdflatex"
+  "main.bbl" 1751391821.19979 2792 76691ce9aab699467e08602d4e96e64e "bibtex main"
+  "main.loe" 1751391826.37149 2125 f0b27dcffeb54e7f42ba3b96d637178a "pdflatex"
+  "main.lop" 1751391826.37149 278 07443838e80e869fe6c335622d1f6de1 "pdflatex"
+  "main.out" 1751391826.37149 8024 e1879e5e4867574e78b504bdf09b1d0f "pdflatex"
   "main.tex" 1750992739.449 783 2f41afb28fd07c1f03209042c02e4b74 ""
-  "main.toc" 1751161222.08197 4786 8a5c33ee00548f20158abb7beac888d8 "pdflatex"
+  "main.toc" 1751391826.37149 4786 37a386ea48ec92ed6538743882f37656 "pdflatex"
   "matematica/energia.tex" 1750728024.82323 1143 e2286d3c96d9287c3c70924d07232f86 ""
   "matematica/funcion_simple/amplitud.tex" 1750724040.207 738 d049542b8634e9e1c9285b6be3b099af ""
   "matematica/funcion_simple/definicion.tex" 1750723997.06131 971 f07d9b73236f470960820464a2fd669c ""
