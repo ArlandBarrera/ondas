@@ -16,10 +16,6 @@ G.~de~Oliveira, ``{Ondas mecânicas: o que são, tipos, características - Mundo
 ``{Ondas electromagnéticas - Labster}.'' \url{https://theory.labster.com/es/electromagnetic-waves/}.
 \newblock Accedido: 2025-06-24.
 
-\bibitem{sncrfllight}
-M.~J. Parry-Hill, R.~T. Sutter, and M.~W. Davidson, ``{Reflection of Light}.'' \url{https://evidentscientific.com/en/microscope-resource/tutorials/reflection/reflectionangles}.
-\newblock Accedido: 2025-06-25.
-
 \bibitem{wikireflexion}
 ``{Reflection (physics) - Wikipedia}.'' \url{https://en.wikipedia.org/wiki/Reflection_(physics)}.
 \newblock Accedido: 2025-06-25.
@@ -28,20 +24,12 @@ M.~J. Parry-Hill, R.~T. Sutter, and M.~W. Davidson, ``{Reflection of Light}.'' \
 M.~Abramowitz, R.~T. Sutter, and M.~W. Davidson, ``{Specular and Diffuse Reflection}.'' \url{https://evidentscientific.com/en/microscope-resource/tutorials/reflection/specular}.
 \newblock Accedido: 2025-06-25.
 
-\bibitem{sncrfrlight}
-R.~T. Sutter, T.~J. Fellers, and M.~W. Davidson, ``{Refraction of Light}.'' \url{https://evidentscientific.com/en/microscope-resource/tutorials/refraction/refractionangles}.
-\newblock Accedido: 2025-06-25.
-
 \bibitem{cstmglassprism}
 Caleb, ``{What is a Glass Prism? Learn Light Refraction}.'' \url{https://customglassmfg.net/blog/what-is-glass-prism/}, Agosto 2023.
 \newblock Accedido: 2025-06-27.
 
 \bibitem{rnbsymdfr}
 M.~Margolis, ``{The Science of Diffraction: What is the Diffraction of Light?}.'' \url{https://www.rainbowsymphony.com/blogs/blog/the-science-of-diffraction-what-is-the-diffraction-of-light}, Septiembre 2023.
-\newblock Accedido: 2025-06-28.
-
-\bibitem{sncdfrlight}
-M.~Abramowitz and M.~W. Davidson, ``{Diffraction of Light}.'' \url{https://evidentscientific.com/en/microscope-resource/knowledge-hub/lightandcolor/diffraction}.
 \newblock Accedido: 2025-06-28.
 
 \bibitem{texasdiffraction}
@@ -71,5 +59,21 @@ L.~Silveira, ``{Estaciones de radio AM, FM, digitales y en línea. ¿Cual es la 
 \bibitem{utecwifi}
 {https://support.u-tec.com/hc/en-us/articles/360059585052-How-to-find-out-whether-my-WiFi-network-is-2-4GHz-5GHz-or-2-4GHz-5GHz-dual-band}.
 \newblock Accedido: 2025-07-02.
+
+\bibitem{i3especmicrowave}
+E.~Ackerman, ``{A Brief History of the Microwave Oven}.'' \url{https://spectrum.ieee.org/a-brief-history-of-the-microwave-oven}, Septiembre 2016.
+\newblock Accedido: 2025-07-03.
+
+\bibitem{sncrfllight}
+M.~J. Parry-Hill, R.~T. Sutter, and M.~W. Davidson, ``{Reflection of Light}.'' \url{https://evidentscientific.com/en/microscope-resource/tutorials/reflection/reflectionangles}.
+\newblock Accedido: 2025-06-25.
+
+\bibitem{sncrfrlight}
+R.~T. Sutter, T.~J. Fellers, and M.~W. Davidson, ``{Refraction of Light}.'' \url{https://evidentscientific.com/en/microscope-resource/tutorials/refraction/refractionangles}.
+\newblock Accedido: 2025-06-25.
+
+\bibitem{sncdfrlight}
+M.~Abramowitz and M.~W. Davidson, ``{Diffraction of Light}.'' \url{https://evidentscientific.com/en/microscope-resource/knowledge-hub/lightandcolor/diffraction}.
+\newblock Accedido: 2025-06-28.
 
 \end{thebibliography}

@@ -370,6 +370,10 @@ INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/lm/lmsy8.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/lm/lmsy6.tfm
 OUTPUT main.toc
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/lm/ec-lmro12.tfm
+INPUT ./main.lof
+INPUT ./main.lof
+INPUT main.lof
+OUTPUT main.lof
 INPUT ./main.lop
 INPUT ./main.lop
 INPUT main.lop
@@ -648,6 +652,11 @@ INPUT ./imagenes/wifi.png
 INPUT ./espectroElectromagnetico/microondas.tex
 INPUT ./espectroElectromagnetico/microondas.tex
 INPUT espectroElectromagnetico/microondas.tex
+INPUT ./imagenes/microwave.png
+INPUT ./imagenes/microwave.png
+INPUT ./imagenes/microwave.png
+INPUT ./imagenes/microwave.png
+INPUT ./imagenes/microwave.png
 INPUT ./espectroElectromagnetico/infrarrojo.tex
 INPUT ./espectroElectromagnetico/infrarrojo.tex
 INPUT espectroElectromagnetico/infrarrojo.tex
