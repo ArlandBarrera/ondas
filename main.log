@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.5.31)  1 JUL 2025 12:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.5.31)  2 JUL 2025 20:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -790,13 +790,13 @@ File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 [21]
 CAPÍTULO 3.
 (./interferencia/definicion.tex) (./interferencia/constructiva.tex
-<imagenes/interferencia_constructiva.png, id=477, 347.2975pt x 398.48875pt>
+<imagenes/interferencia_constructiva.png, id=492, 347.2975pt x 398.48875pt>
 File: imagenes/interferencia_constructiva.png Graphic file (type png)
 <use imagenes/interferencia_constructiva.png>
 Package pdftex.def Info: imagenes/interferencia_constructiva.png  used on input line 5.
 (pdftex.def)             Requested size: 138.91653pt x 159.39267pt.
 ) (./interferencia/destructiva.tex
-<imagenes/interferencia_destructiva.png, id=480, 388.45125pt x 399.4925pt>
+<imagenes/interferencia_destructiva.png, id=495, 388.45125pt x 399.4925pt>
 File: imagenes/interferencia_destructiva.png Graphic file (type png)
 <use imagenes/interferencia_destructiva.png>
 Package pdftex.def Info: imagenes/interferencia_destructiva.png  used on input line 5.
@@ -810,13 +810,13 @@ Package pdftex.def Info: imagenes/interferencia_destructiva.png  used on input l
 [23 <./imagenes/interferencia_destructiva.png>]
 CAPÍTULO 4.
 (./tipos/mov_particulas/transversal.tex
-<imagenes/onda_transversal.png, id=498, 735.74875pt x 240.9pt>
+<imagenes/onda_transversal.png, id=513, 735.74875pt x 240.9pt>
 File: imagenes/onda_transversal.png Graphic file (type png)
 <use imagenes/onda_transversal.png>
 Package pdftex.def Info: imagenes/onda_transversal.png  used on input line 5.
 (pdftex.def)             Requested size: 294.29428pt x 96.35828pt.
 ) (./tipos/mov_particulas/longitudinal.tex
-<imagenes/onda_longitudinal.png, id=501, 744.7825pt x 133.49875pt>
+<imagenes/onda_longitudinal.png, id=516, 744.7825pt x 133.49875pt>
 File: imagenes/onda_longitudinal.png Graphic file (type png)
 <use imagenes/onda_longitudinal.png>
 Package pdftex.def Info: imagenes/onda_longitudinal.png  used on input line 7.
@@ -829,7 +829,7 @@ Underfull \vbox (badness 1515) has occurred while \output is active []
 [24
 
  <./imagenes/onda_transversal.png (PNG copy)>]) (./tipos/naturaleza_emision/mecanica.tex
-<imagenes/ondas_agua.png, id=511, 1445.4pt x 993.7125pt>
+<imagenes/ondas_agua.png, id=526, 1445.4pt x 993.7125pt>
 File: imagenes/ondas_agua.png Graphic file (type png)
 <use imagenes/ondas_agua.png>
 Package pdftex.def Info: imagenes/ondas_agua.png  used on input line 5.
@@ -837,7 +837,7 @@ Package pdftex.def Info: imagenes/ondas_agua.png  used on input line 5.
 
 
 [25 <./imagenes/onda_longitudinal.png (PNG copy)> <./imagenes/ondas_agua.png>]) (./tipos/naturaleza_emision/electromagnetica.tex
-<imagenes/campo_electrico_magnetico.png, id=522, 513.92pt x 358.33875pt>
+<imagenes/campo_electrico_magnetico.png, id=537, 513.92pt x 358.33875pt>
 File: imagenes/campo_electrico_magnetico.png Graphic file (type png)
 <use imagenes/campo_electrico_magnetico.png>
 Package pdftex.def Info: imagenes/campo_electrico_magnetico.png  used on input line 7.
@@ -849,13 +849,13 @@ Package pdftex.def Info: imagenes/campo_electrico_magnetico.png  used on input l
 [27]
 CAPÍTULO 5.
 (./fenomenos/reflexion/definicion.tex
-<imagenes/reflexion_monte.png, id=537, 1927.2pt x 1529.715pt>
+<imagenes/reflexion_monte.png, id=552, 1927.2pt x 1529.715pt>
 File: imagenes/reflexion_monte.png Graphic file (type png)
 <use imagenes/reflexion_monte.png>
 Package pdftex.def Info: imagenes/reflexion_monte.png  used on input line 5.
 (pdftex.def)             Requested size: 289.06754pt x 229.44734pt.
 ) (./fenomenos/reflexion/ley_reflexion.tex
-<imagenes/ley_reflexion.png, id=539, 1445.4pt x 813.0375pt>
+<imagenes/ley_reflexion.png, id=554, 1445.4pt x 813.0375pt>
 File: imagenes/ley_reflexion.png Graphic file (type png)
 <use imagenes/ley_reflexion.png>
 Package pdftex.def Info: imagenes/ley_reflexion.png  used on input line 5.
@@ -865,7 +865,7 @@ Package pdftex.def Info: imagenes/ley_reflexion.png  used on input line 5.
 [28
 
  <./imagenes/reflexion_monte.png>]) (./fenomenos/reflexion/especular.tex
-<imagenes/reflexion_especular.png, id=547, 356.33125pt x 214.8025pt>
+<imagenes/reflexion_especular.png, id=563, 356.33125pt x 214.8025pt>
 File: imagenes/reflexion_especular.png Graphic file (type png)
 <use imagenes/reflexion_especular.png>
 Package pdftex.def Info: imagenes/reflexion_especular.png  used on input line 5.
@@ -876,19 +876,19 @@ Underfull \vbox (badness 3108) has occurred while \output is active []
 
 
 [29 <./imagenes/ley_reflexion.png (PNG copy)>] (./fenomenos/reflexion/difusa.tex
-<imagenes/reflexion_difusa.png, id=556, 358.33875pt x 213.79875pt>
+<imagenes/reflexion_difusa.png, id=571, 358.33875pt x 213.79875pt>
 File: imagenes/reflexion_difusa.png Graphic file (type png)
 <use imagenes/reflexion_difusa.png>
 Package pdftex.def Info: imagenes/reflexion_difusa.png  used on input line 5.
 (pdftex.def)             Requested size: 179.16893pt x 106.89911pt.
 ) (./fenomenos/refraccion/definicion.tex
-<imagenes/prisma.png, id=559, 453.0015pt x 329.4855pt>
+<imagenes/prisma.png, id=574, 453.0015pt x 329.4855pt>
 File: imagenes/prisma.png Graphic file (type png)
 <use imagenes/prisma.png>
 Package pdftex.def Info: imagenes/prisma.png  used on input line 7.
 (pdftex.def)             Requested size: 226.50018pt x 164.74234pt.
 ) (./fenomenos/refraccion/snell.tex
-<imagenes/ley_snell.png, id=561, 287.72495pt x 286.36987pt>
+<imagenes/ley_snell.png, id=576, 287.72495pt x 286.36987pt>
 File: imagenes/ley_snell.png Graphic file (type png)
 <use imagenes/ley_snell.png>
 Package pdftex.def Info: imagenes/ley_snell.png  used on input line 3.
@@ -901,7 +901,7 @@ Underfull \vbox (badness 2903) has occurred while \output is active []
 [30 <./imagenes/reflexion_especular.png (PNG copy)> <./imagenes/reflexion_difusa.png (PNG copy)>]
 
 [31 <./imagenes/prisma.png> <./imagenes/ley_snell.png>]
-<imagenes/rayos_refractados.png, id=580, 288.17662pt x 289.08pt>
+<imagenes/rayos_refractados.png, id=595, 288.17662pt x 289.08pt>
 File: imagenes/rayos_refractados.png Graphic file (type png)
 <use imagenes/rayos_refractados.png>
 Package pdftex.def Info: imagenes/rayos_refractados.png  used on input line 43.
@@ -912,7 +912,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [32] (./fenomenos/difraccion/definicion.tex
-<imagenes/difraccion_nube.png, id=587, 803.0pt x 602.25pt>
+<imagenes/difraccion_nube.png, id=602, 803.0pt x 602.25pt>
 File: imagenes/difraccion_nube.png Graphic file (type png)
 <use imagenes/difraccion_nube.png>
 Package pdftex.def Info: imagenes/difraccion_nube.png  used on input line 5.
@@ -920,13 +920,13 @@ Package pdftex.def Info: imagenes/difraccion_nube.png  used on input line 5.
 )
 
 [33 <./imagenes/rayos_refractados.png> <./imagenes/difraccion_nube.png>] (./fenomenos/difraccion/alrededor.tex
-<imagenes/difraccion_alrededor.png, id=598, 201.75375pt x 250.9375pt>
+<imagenes/difraccion_alrededor.png, id=613, 201.75375pt x 250.9375pt>
 File: imagenes/difraccion_alrededor.png Graphic file (type png)
 <use imagenes/difraccion_alrededor.png>
 Package pdftex.def Info: imagenes/difraccion_alrededor.png  used on input line 3.
 (pdftex.def)             Requested size: 100.87662pt x 125.46843pt.
 ) (./fenomenos/difraccion/atraves.tex
-<imagenes/difraccion_atraves.png, id=600, 376.40625pt x 117.43875pt>
+<imagenes/difraccion_atraves.png, id=615, 376.40625pt x 117.43875pt>
 File: imagenes/difraccion_atraves.png Graphic file (type png)
 <use imagenes/difraccion_atraves.png>
 Package pdftex.def Info: imagenes/difraccion_atraves.png  used on input line 5.
@@ -934,7 +934,7 @@ Package pdftex.def Info: imagenes/difraccion_atraves.png  used on input line 5.
 ) (./fenomenos/absorcion/definicion.tex
 
 [34 <./imagenes/difraccion_alrededor.png> <./imagenes/difraccion_atraves.png>]
-<imagenes/absorcion_hojas.png, id=615, 421.575pt x 427.5975pt>
+<imagenes/absorcion_hojas.png, id=630, 421.575pt x 427.5975pt>
 File: imagenes/absorcion_hojas.png Graphic file (type png)
 <use imagenes/absorcion_hojas.png>
 Package pdftex.def Info: imagenes/absorcion_hojas.png  used on input line 7.
@@ -943,15 +943,41 @@ Package pdftex.def Info: imagenes/absorcion_hojas.png  used on input line 7.
 
 [35 <./imagenes/absorcion_hojas.png>]
 CAPÍTULO 6.
-(./espectroElectromagnetico/definicion.tex) (./espectroElectromagnetico/radio.tex) (./espectroElectromagnetico/microondas.tex) (./espectroElectromagnetico/infrarojo.tex) (./espectroElectromagnetico/luz_visible.tex) (./espectroElectromagnetico/ultravioleta.tex) (./espectroElectromagnetico/rayos_x.tex) (./espectroElectromagnetico/gamma.tex)) (./sonido/ref-sonido.tex
+(./espectroElectromagnetico/definicion.tex
+<imagenes/espectro_electromagnetico.png, id=638, 885.3075pt x 271.0125pt>
+File: imagenes/espectro_electromagnetico.png Graphic file (type png)
+<use imagenes/espectro_electromagnetico.png>
+Package pdftex.def Info: imagenes/espectro_electromagnetico.png  used on input line 5.
+(pdftex.def)             Requested size: 442.65266pt x 135.5059pt.
+) (./espectroElectromagnetico/radio.tex
 
 [36
 
-]
+ <./imagenes/espectro_electromagnetico.png>]
+<imagenes/am_fm.png, id=647, 873.2625pt x 391.4625pt>
+File: imagenes/am_fm.png Graphic file (type png)
+<use imagenes/am_fm.png>
+Package pdftex.def Info: imagenes/am_fm.png  used on input line 13.
+(pdftex.def)             Requested size: 349.29881pt x 156.58221pt.
+<imagenes/ionosfera_onda.png, id=649, 342.078pt x 203.8014pt>
+File: imagenes/ionosfera_onda.png Graphic file (type png)
+<use imagenes/ionosfera_onda.png>
+Package pdftex.def Info: imagenes/ionosfera_onda.png  used on input line 23.
+(pdftex.def)             Requested size: 273.66275pt x 163.04132pt.
+<imagenes/wifi.png, id=651, 713.66624pt x 577.15625pt>
+File: imagenes/wifi.png Graphic file (type png)
+<use imagenes/wifi.png>
+Package pdftex.def Info: imagenes/wifi.png  used on input line 35.
+(pdftex.def)             Requested size: 214.10152pt x 173.14821pt.
+)
+
+[37 <./imagenes/am_fm.png> <./imagenes/ionosfera_onda.png>] (./espectroElectromagnetico/microondas.tex) (./espectroElectromagnetico/infrarrojo.tex) (./espectroElectromagnetico/luz_visible.tex) (./espectroElectromagnetico/ultravioleta.tex) (./espectroElectromagnetico/rayos_x.tex) (./espectroElectromagnetico/gamma.tex)) (./sonido/ref-sonido.tex
+
+[38 <./imagenes/wifi.png>]
 CAPÍTULO 7.
 (./sonido/definicion.tex)) (./main.bbl
 
-[37
+[39
 
 ]
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 4.
@@ -1017,31 +1043,53 @@ Underfull \hbox (badness 1533) in paragraph at lines 56--58
 \T1/lmtt/m/n/11 aplicaciones-[]agricolas / 51-[]agricola / 165-[]estructura-[]de-[]la-[]hoja$[][]\T1/lmr/m/n/11 .  Ac-ce-dido: 2025-
  []
 
+
+
+[40
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 64--66
+[]\T1/lmr/m/n/11 L. Sil-veira, ``Esta-ciones de ra-dio AM, FM, dig-i-tales y en
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--66
+\T1/lmr/m/n/11 l�nea. �Cual es la difer-en-cia?.'' [][]$\T1/lmtt/m/n/11 https : / / blog . brlogic . com / es /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--66
+\T1/lmtt/m/n/11 estaciones-[]de-[]radio-[]am-[]fm-[]digitales-[]y-[]en-[]linea-[]cual-[]es-[]la-[]diferencia/$[][]\T1/lmr/m/n/11 , Julio
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--74
+[]\T1/lmr/m/n/11 https://support.u-tec.com/hc/en-us/articles/360059585052-How-to-find-out-whether-my-WiFi-
+ []
+
 )
 
-[38
-
-] (./main.aux)
+[41] (./main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-04-29>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: E1879E5E4867574E78B504BDF09B1D0F;8024.
+(rerunfilecheck)             Checksum: EF142717E802697A1A42A3FE2F810FF4;8572.
  ) 
 Here is how much of TeX's memory you used:
- 33004 strings out of 469590
- 779297 string characters out of 5470346
- 1359098 words of memory out of 5000000
- 58952 multiletter control sequences out of 15000+600000
+ 33053 strings out of 469590
+ 780476 string characters out of 5470346
+ 1359238 words of memory out of 5000000
+ 58987 multiletter control sequences out of 15000+600000
  686950 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  104i,17n,108p,1193b,2137s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmex10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmro12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on main.pdf (38 pages, 5766868 bytes).
+Output written on main.pdf (41 pages, 6247547 bytes).
 PDF statistics:
- 765 PDF objects out of 1000 (max. 8388607)
- 668 compressed objects within 7 object streams
- 174 named destinations out of 1000 (max. 500000)
- 570 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 820 PDF objects out of 1000 (max. 8388607)
+ 712 compressed objects within 8 object streams
+ 188 named destinations out of 1000 (max. 500000)
+ 614 words of extra memory for PDF output out of 10000 (max. 10000000)
 
