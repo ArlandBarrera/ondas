@@ -28,6 +28,10 @@ M.~Abramowitz, R.~T. Sutter, and M.~W. Davidson, ``{Specular and Diffuse Reflect
 Caleb, ``{What is a Glass Prism? Learn Light Refraction}.'' \url{https://customglassmfg.net/blog/what-is-glass-prism/}, Agosto 2023.
 \newblock Accedido: 2025-06-27.
 
+\bibitem{wikireftotint}
+``{Total internal reflection}.'' \url{https://en.wikipedia.org/wiki/Total_internal_reflection}.
+\newblock Accedido: 2025-07-13.
+
 \bibitem{rnbsymdfr}
 M.~Margolis, ``{The Science of Diffraction: What is the Diffraction of Light?}.'' \url{https://www.rainbowsymphony.com/blogs/blog/the-science-of-diffraction-what-is-the-diffraction-of-light}, Septiembre 2023.
 \newblock Accedido: 2025-06-28.
@@ -55,6 +59,19 @@ L.~Silveira, ``{Estaciones de radio AM, FM, digitales y en línea. ¿Cual es la 
 \bibitem{wikiionosfera}
 ``{Ionosphere}.'' \url{https://en.wikipedia.org/wiki/Ionosphere}.
 \newblock Accedido: 2025-07-02.
+
+\bibitem{fraybecerra}
+F.~Becerra, {\em {PATRONES DE CONDUCTA FACIAL, PARA IDENTIFICAR ACCESOS INFORMÁTICOS NO AUTORIZADOS}}.
+\newblock PhD thesis, 01 2019.
+\newblock Accedido: 2025-07-13.
+
+\bibitem{confrayleigh}
+M.~Múgica, ``{¿Por qué es azul el cielo?: la culpa la tiene la dispersión Rayleigh}.'' \url{}, Enero 2017.
+\newblock Accedido: 2025-07-13.
+
+\bibitem{nmcfibopt}
+Gary, ``{Fibre Optic Cable}.'' \url{https://www.nmcabling.co.uk/2021/09/fibre-optic-cable/}, Septiembre 2021.
+\newblock Accedido: 2025-07-13.
 
 \bibitem{utecwifi}
 {https://support.u-tec.com/hc/en-us/articles/360059585052-How-to-find-out-whether-my-WiFi-network-is-2-4GHz-5GHz-or-2-4GHz-5GHz-dual-band}.
@@ -87,6 +104,10 @@ R.~T. Sutter, T.~J. Fellers, and M.~W. Davidson, ``{Refraction of Light}.'' \url
 \bibitem{sncdfrlight}
 M.~Abramowitz and M.~W. Davidson, ``{Diffraction of Light}.'' \url{https://evidentscientific.com/en/microscope-resource/knowledge-hub/lightandcolor/diffraction}.
 \newblock Accedido: 2025-06-28.
+
+\bibitem{vnfoc}
+VirtualBrain, ``{How Fiber Optics Works}.'' \url{https://youtu.be/zAVsTubdd_Q}, Diciembre 2024.
+\newblock Accedido: 2025-07-13.
 
 \bibitem{ytvrtbv}
 Veritasium, ``{How Do Night Vision Goggles Work?}.'' \url{https://youtu.be/UAeJHAFjwPM}, Noviembre 2023.

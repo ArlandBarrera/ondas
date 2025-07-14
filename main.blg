@@ -3,44 +3,46 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: main.aux
 The style file: ieeetr.bst
 Database file #1: referencias.bib
-You've used 23 entries,
+Warning--empty school in fraybecerra
+You've used 28 entries,
             1876 wiz_defined-function locations,
-            575 strings with 6845 characters,
-and the built_in function-call counts, 2989 in all, are:
-= -- 301
-> -- 84
+            599 strings with 7369 characters,
+and the built_in function-call counts, 3653 in all, are:
+= -- 372
+> -- 101
 < -- 0
-+ -- 42
-- -- 19
-* -- 124
-:= -- 389
-add.period$ -- 46
-call.type$ -- 23
-change.case$ -- 22
++ -- 51
+- -- 23
+* -- 157
+:= -- 484
+add.period$ -- 57
+call.type$ -- 28
+change.case$ -- 26
 chr.to.int$ -- 0
-cite$ -- 23
-duplicate$ -- 92
-empty$ -- 412
-format.name$ -- 19
-if$ -- 788
+cite$ -- 29
+duplicate$ -- 115
+empty$ -- 495
+format.name$ -- 23
+if$ -- 955
 int.to.chr$ -- 0
-int.to.str$ -- 23
+int.to.str$ -- 28
 missing$ -- 0
-newline$ -- 95
-num.names$ -- 12
-pop$ -- 162
+newline$ -- 116
+num.names$ -- 16
+pop$ -- 190
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 69
+skip$ -- 83
 stack$ -- 0
 substring$ -- 0
-swap$ -- 0
+swap$ -- 1
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 0
-while$ -- 12
-width$ -- 25
-write$ -- 206
+warning$ -- 1
+while$ -- 16
+width$ -- 30
+write$ -- 255
+(There was 1 warning)

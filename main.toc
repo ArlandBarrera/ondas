@@ -44,23 +44,31 @@
 \contentsline {subsection}{\numberline {5.1.3}Reflexión Difusa}{31}{subsection.5.1.3}%
 \contentsline {section}{\numberline {5.2}Refracción}{31}{section.5.2}%
 \contentsline {subsection}{\numberline {5.2.1}Ley de Snell}{32}{subsection.5.2.1}%
-\contentsline {section}{\numberline {5.3}Difracción}{34}{section.5.3}%
-\contentsline {subsection}{\numberline {5.3.1}Difracción alrededor de un obstáculo}{35}{subsection.5.3.1}%
-\contentsline {subsection}{\numberline {5.3.2}Difracción a través de una abertura}{35}{subsection.5.3.2}%
-\contentsline {section}{\numberline {5.4}Absorción}{35}{section.5.4}%
-\contentsline {chapter}{\numberline {6}Espectro Electromagnético}{37}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Ondas de Radio}{37}{section.6.1}%
-\contentsline {subsection}{\numberline {6.1.1}Señales AM y FM}{37}{subsection.6.1.1}%
-\contentsline {subsection}{\numberline {6.1.2}Propagación en la Ionósfera}{38}{subsection.6.1.2}%
-\contentsline {subsection}{\numberline {6.1.3}Wi-Fi 2.4 GHz y 5 GHz}{38}{subsection.6.1.3}%
+\contentsline {subsection}{\numberline {5.2.2}Reflexión Total Interna}{34}{subsection.5.2.2}%
+\contentsline {section}{\numberline {5.3}Difracción}{35}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Difracción alrededor de un obstáculo}{36}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}Difracción a través de una abertura}{36}{subsection.5.3.2}%
+\contentsline {section}{\numberline {5.4}Absorción}{36}{section.5.4}%
+\contentsline {chapter}{\numberline {6}Espectro Electromagnético}{38}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Ondas de Radio}{38}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Señales AM y FM}{38}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}Propagación en la Ionósfera}{39}{subsection.6.1.2}%
 \contentsline {section}{\numberline {6.2}Microondas}{39}{section.6.2}%
-\contentsline {subsection}{\numberline {6.2.1}Horno microondas}{39}{subsection.6.2.1}%
 \contentsline {section}{\numberline {6.3}Rayos Infrarrojos}{40}{section.6.3}%
-\contentsline {subsection}{\numberline {6.3.1}Visión nocturna}{40}{subsection.6.3.1}%
-\contentsline {subsubsection}{\numberline {6.3.1.1}Procedimiento}{41}{subsubsection.6.3.1.1}%
-\contentsline {subsubsection}{\numberline {6.3.1.2}Tipos}{42}{subsubsection.6.3.1.2}%
-\contentsline {section}{\numberline {6.4}Luz Visible}{43}{section.6.4}%
-\contentsline {section}{\numberline {6.5}Rayos Ultravioletas}{43}{section.6.5}%
-\contentsline {section}{\numberline {6.6}Rayos X}{43}{section.6.6}%
-\contentsline {section}{\numberline {6.7}Rayos Gamma}{43}{section.6.7}%
-\contentsline {chapter}{\numberline {7}Sonido}{44}{chapter.7}%
+\contentsline {section}{\numberline {6.4}Luz Visible}{40}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}Dispersión de Rayleigh}{40}{subsection.6.4.1}%
+\contentsline {section}{\numberline {6.5}Rayos Ultravioletas}{41}{section.6.5}%
+\contentsline {section}{\numberline {6.6}Rayos X}{41}{section.6.6}%
+\contentsline {section}{\numberline {6.7}Rayos Gamma}{41}{section.6.7}%
+\contentsline {chapter}{\numberline {7}Sonido}{42}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Aplicaciones}{43}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Fibra Óptica}{43}{section.8.1}%
+\contentsline {subsection}{\numberline {8.1.1}Componentes principales}{43}{subsection.8.1.1}%
+\contentsline {subsection}{\numberline {8.1.2}Procedimiento}{44}{subsection.8.1.2}%
+\contentsline {subsection}{\numberline {8.1.3}Ventajas}{44}{subsection.8.1.3}%
+\contentsline {section}{\numberline {8.2}Radar}{44}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Wi-Fi}{44}{section.8.3}%
+\contentsline {section}{\numberline {8.4}Horno Microondas}{45}{section.8.4}%
+\contentsline {section}{\numberline {8.5}Visión Nocturna}{46}{section.8.5}%
+\contentsline {subsection}{\numberline {8.5.1}Procedimiento}{47}{subsection.8.5.1}%
+\contentsline {subsection}{\numberline {8.5.2}Tipos}{48}{subsection.8.5.2}%
